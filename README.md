@@ -15,7 +15,7 @@ A C++ simulation of the Completely Fair Scheduler (CFS), inspired by the Linux k
 => Demo Output :
 === CFS Scheduler Demo ===
 
-  PID      Prio       Burst         VRun        Type
+  PID      Priority       Burst         VRun        Type
 ----------------------------------------------------
     1         0          15            0         CPU
     2         5          20            0          IO
